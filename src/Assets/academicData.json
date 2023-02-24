@@ -1,0 +1,25 @@
+{"degrees":[
+    {
+        "programme":"Metriculation",
+        "instituteName":"Shanti Puclic School , Palwal , Haryana (121102) ",
+        "year":"2016 - 2017",
+        "score":"91.8%",
+        "board":"HBSE"
+    },
+    {
+        "programme":"Intermediate",
+        "instituteName":"Vivekanand Public School , Palwal ,Haryana (121102)",
+        "year":"2018 - 2019",
+        "score":"75%",
+        "board":"HBSE"
+    },
+    {
+        "programme":"B.Tech",
+        "instituteName":"National Institute of Technology Kurukshetra, Haryana India",
+        "year":"2020 - present",
+        "score":"8.87/10"
+    }
+],
+    "skills":["ReactJS","NodeJS","ExpressJS","MongoDB","C++","Javascript",
+                  "Data Structure & Algorithm","Git","Github","CSS3","Bootstrap","material-ui","HTML5","Redux"]
+}

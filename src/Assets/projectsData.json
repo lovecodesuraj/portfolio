@@ -1,0 +1,60 @@
+[
+
+    {
+        "ProjectName":"medverse",
+        "siteLink":"https://fantastic-biscuit-866479.netlify.app/",
+        "repoLink":"https://github.com/lovecodesuraj/medverse",
+        "projectDescription":[
+            "A query resolving platform for doctors.",
+            "Tech Stack - MERN with Redux"
+        ]
+    },
+    {
+        "ProjectName":"seniorGuide",
+        "siteLink":"https://seniorguide.onrender.com/",
+        "repoLink":"https://github.com/lovecodesuraj/seniorGuide",
+        "projectDescription":[
+            "Get senior guidance and intreraction anywhere personally .",
+            "Tech Stack - Node.js,Express,Mongodb,EJS templates for UI "
+        ]
+    },
+    {
+        "ProjectName":"smartTic_Toe",
+        "siteLink":"https://steady-banoffee-c983dc.netlify.app/",
+        "repoLink":"https://github.com/lovecodesuraj/mathmaticTic_Toe",
+        "projectDescription":[
+            "Single Palyer game with Smart AI.",
+            "Tech Stack - React.js, javascript"
+        ]
+    },
+
+
+    {
+        "ProjectName":"playTetris",
+        "siteLink":"https://lovecodesuraj.github.io/playTetris/",
+        "repoLink":"https://github.com/lovecodesuraj/playTetris",
+        "projectDescription":[
+            "Game",
+            "Features - Touch Swipe Compatible, Fully responsive, easy control.",
+            "Tech used: Canvas( HTML5), Vanilla"
+        ]
+    }, 
+    {
+        "ProjectName":"Recipe Book",
+        "siteLink":"https://musical-melba-d13e25.netlify.app/",
+        "repoLink":"https://github.com/lovecodesuraj/recipeBook",
+        "projectDescription":[
+            "Recipe Book helps to find and save their favourite recipes.",
+            "Tech used: MERN"
+        ]
+    },
+    {
+        "ProjectName":"beFarmer",
+        "siteLink":"https://beingfarmer.herokuapp.com/",
+        "repoLink":"https://github.com/lovecodesuraj/beFarmer",
+        "projectDescription":[
+            "Provide crop sugeestions according to local weather and soil type .",
+            "Tech used: MERN"
+        ]
+    }
+]
